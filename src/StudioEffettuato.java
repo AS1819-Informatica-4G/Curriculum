@@ -1,4 +1,7 @@
 
-public class StudioEffettuato {
-
+public class StudioEffettuato extends Voce {
+	String istituto;
+	int numeroAnni;
+	Diploma diplomaConseguito=null;
+	
 }
